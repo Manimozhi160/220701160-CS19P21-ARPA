@@ -1,0 +1,2 @@
+New-item -path . -Name "RECC.txt" -Itemtype "file" -Value "REC"
+New-item -path . -Name "RIT.txt" -Itemtype "file" -Value "RIT"
